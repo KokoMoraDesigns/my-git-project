@@ -7,9 +7,6 @@ print('i adore my life')
 
 def hi_there():
     print('hi, my sweet love')
-<<<<<<< HEAD
 
 
 # Tengo to' hambrita mía <3
-=======
->>>>>>> origin/main
