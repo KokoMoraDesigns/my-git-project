@@ -2,6 +2,9 @@
 
 > We are gorgeous and lovely 
 
+what's your favourite happy movie? <3>
+
+i'm in love with myself <3>
 i'm in love with myself <3>
 
 hi, my love <3 
